@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Hey! I'm a **19-year-old Moroccan software engineer** who lives and breathes code. I specialize in building **Discord bots** with Node.js, crafting **React frontends**, and exploring AI-powered tools. If it involves turning coffee into working software, I'm in.
+Hey! I'm a **19-year-old Moroccan software engineer** who lives and breathes code. I specialize in building **Discord bots** with Node.js and crafting **React frontends**. If it involves turning coffee into working software, I'm in.
 
 - 💬 Ask me about: **Discord bots, React, TypeScript**
 - 🌱 Currently learning: **Advanced DevOps & Cloud**

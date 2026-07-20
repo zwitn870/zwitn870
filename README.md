@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+zwitn;Software+Engineer;Discord+Bot+Developer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+zwitn;19+%7C+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Software+Engineer;Discord+Bot+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zwitn870&color=a78bfa&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Age-19-a78bfa?style=flat-square" alt="Age 19" />
+  <img src="https://img.shields.io/badge/From-Morocco%20%F0%9F%87%B2%F0%9F%87%A6-a78bfa?style=flat-square" alt="Morocco" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Passionate software engineer specializing in **Discord bot development** with Node.js and **React frontend**. I love building tools that make people's lives easier and exploring new technologies.
+Hey! I'm a **19-year-old Moroccan software engineer** who lives and breathes code. I specialize in building **Discord bots** with Node.js, crafting **React frontends**, and exploring AI-powered tools. If it involves turning coffee into working software, I'm in.
 
 - 💬 Ask me about: **Discord bots, React, TypeScript**
 - 🌱 Currently learning: **Advanced DevOps & Cloud**
